@@ -1,0 +1,32 @@
+{
+  "stick":{
+    "play": 0.1,
+    "relative": false,
+    "size": 300,
+    "image": "DirPad",
+    "origin": "bottomleft",
+    "id": "Dirpad",
+    "x": 15,
+    "y": 15
+  },
+  "buttons": [
+    {
+      "id": "okBtn",
+      "name": "ok",
+      "size": 150,
+      "image": "ActionButton",
+      "origin": "bottomright",
+      "x": 15,
+      "y": 135
+    },
+    {
+      "id": "escapeBtn",
+      "name": "dash",
+      "size": 150,
+      "image": "CancelButton",
+      "origin": "bottomright",
+      "x": 165,
+      "y": 15
+    }
+  ]
+}
