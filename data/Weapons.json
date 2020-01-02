@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":2,"animationId":0,"description":"","etypeId":1,"traits":[],"iconIndex":0,"name":"---コメントアウト---","note":"作中で武器欄を使用していないと判断したため\n連打移動バグ修正時、\nコメントアウト用に作成した武器欄です。\n\nこの欄を消去、または上書きすることで\n予期せぬバグが発生することがあります。","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0}
+]
